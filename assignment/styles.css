@@ -1,0 +1,24 @@
+.headerClass{
+  background-color: brown;
+  font-style: oblique
+
+
+}
+.info{
+  background-color: purple;
+  font-weight: bolder;
+  font-style: italic;
+  color: orange;
+}
+
+.h3{
+  background color: black
+  color: yellow
+}
+
+img{
+  padding: inherit;
+  border-style: groove;
+  border-spacing: inherit;
+  border: 10px solid #874
+}
