@@ -17,8 +17,16 @@
 }
 
 img{
-  padding: inherit;
-  border-style: groove;
-  border-spacing: inherit;
+  padding: 2px;
+  border-style: double;
+  border-spacing: 30px;
   border: 10px solid #874
+}
+
+.center{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 55%;
+ height: 30%;
 }
